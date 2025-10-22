@@ -1,3 +1,7 @@
 h1{
     font-size: 7em;
 }
+body{
+    background-color: chartreuse;
+    color: orange;
+}
